@@ -1,4 +1,4 @@
 
-Gevonden Voorwerpen
+<FONT size="6">Gevonden Voorwerpen</FONT>
 
 Verboden toegang voor onbevoegden
